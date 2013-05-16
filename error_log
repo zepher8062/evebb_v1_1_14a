@@ -1,0 +1,118 @@
+[03-Aug-2012 15:15:06 UTC] PHP Notice:  Undefined index: allow_null in /home/egacouk/public_html/include/dblayer/mysqli.php on line 347
+[03-Aug-2012 15:41:15 UTC] PHP Warning:  file_get_contents(/home/egacouk/public_html/plugins/ezbbc/config.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/egacouk/public_html/plugins/ezbbc/ezbbc_head.php on line 14
+[03-Aug-2012 15:41:15 UTC] PHP Warning:  file_get_contents(/home/egacouk/public_html/plugins/ezbbc/config.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/egacouk/public_html/plugins/ezbbc/ezbbc_smilies1.php on line 2
+[03-Aug-2012 15:41:34 UTC] PHP Warning:  file_get_contents(/home/egacouk/public_html/plugins/ezbbc/config.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/egacouk/public_html/plugins/AP_EZBBC_Toolbar.php on line 26
+[03-Aug-2012 15:41:39 UTC] PHP Warning:  file_get_contents(/home/egacouk/public_html/plugins/ezbbc/config.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/egacouk/public_html/plugins/AP_EZBBC_Toolbar.php on line 26
+[03-Aug-2012 15:41:50 UTC] PHP Warning:  file_get_contents(/home/egacouk/public_html/plugins/ezbbc/config.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/egacouk/public_html/plugins/AP_EZBBC_Toolbar.php on line 26
+[03-Aug-2012 15:41:55 UTC] PHP Warning:  file_get_contents(/home/egacouk/public_html/plugins/ezbbc/config.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/egacouk/public_html/plugins/AP_EZBBC_Toolbar.php on line 26
+[03-Aug-2012 15:42:37 UTC] PHP Warning:  file_get_contents(/home/egacouk/public_html/plugins/ezbbc/config.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/egacouk/public_html/plugins/AP_EZBBC_Toolbar.php on line 26
+[03-Aug-2012 15:44:02 UTC] PHP Warning:  file_get_contents(/home/egacouk/public_html/plugins/ezbbc/config.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/egacouk/public_html/plugins/AP_EZBBC_Toolbar.php on line 26
+[03-Aug-2012 15:44:59 UTC] PHP Warning:  file_get_contents(/home/egacouk/public_html/plugins/ezbbc/config.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/egacouk/public_html/plugins/AP_EZBBC_Toolbar.php on line 26
+[03-Aug-2012 15:45:41 UTC] PHP Warning:  file_get_contents(/home/egacouk/public_html/plugins/ezbbc/config.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/egacouk/public_html/plugins/AP_EZBBC_Toolbar.php on line 26
+[03-Aug-2012 15:46:14 UTC] PHP Warning:  file_get_contents(/home/egacouk/public_html/plugins/ezbbc/config.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/egacouk/public_html/plugins/AP_EZBBC_Toolbar.php on line 26
+[03-Aug-2012 15:46:37 UTC] PHP Warning:  file_get_contents(/home/egacouk/public_html/plugins/ezbbc/config.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/egacouk/public_html/plugins/AP_EZBBC_Toolbar.php on line 26
+[03-Aug-2012 23:52:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[03-Aug-2012 23:52:29 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news/newsFromEve.asp?newsTitle=csm-7-summit-meeting-minutes-published'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 00:19:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 00:19:52 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news/newsFromEve.asp?newsTitle=csm-7-summit-meeting-minutes-published'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 00:36:50 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 00:36:50 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news.asp?a=single&amp;amp;nid=4886&amp;amp;tid=4'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 00:48:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 00:48:25 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news/newsFromEve.asp?newsTitle=eve-online-inferno-1-2-to-be-deployed-on-august-8'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 00:54:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 00:54:05 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news.asp?a=single&amp;amp;nid=5006&amp;amp;tid=4'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 01:09:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 01:09:29 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news/newsFromEve.asp?newsTitle=csm-7-summit-meeting-minutes-published'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 01:20:35 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 01:20:35 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news/newsFromEve.asp?newsTitle=alliance-tournament-x-finals-day'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 01:38:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 01:38:07 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news/newsFromEve.asp?newsTitle=paypal-payments-for-character-transfers-temporarily-disabled'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 01:50:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 01:50:08 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news.asp?a=single&amp;amp;nid=4920&amp;amp;tid=4'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 02:00:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 02:00:57 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news/newsFromEve.asp?newsTitle=tune-in-for-the-final-day-of-group-stage-matches-in-alliance-tournament-x'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 02:17:36 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 02:17:36 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news/newsFromEve.asp?newsTitle=tune-in-for-the-final-day-of-group-stage-matches-in-alliance-tournament-x'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 02:19:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 02:19:42 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news.asp?a=single&amp;amp;nid=5006&amp;amp;tid=4'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 02:33:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 02:33:03 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_market_link&quot; onclick=&quot;CCPEVE.showMarketDetails(http://); return false&quot;&gt;ht&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 02:42:34 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 02:42:34 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_market_link&quot; onclick=&quot;CCPEVE.showMarketDetails(http://); return false&quot;&gt;ht&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 02:51:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 02:51:16 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news.asp?a=single&amp;amp;nid=4886&amp;amp;tid=4'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 02:51:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 02:51:17 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_market_link&quot; onclick=&quot;CCPEVE.showMarketDetails(http://); return false&quot;&gt;ht&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 03:01:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 03:01:40 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_market_link&quot; onclick=&quot;CCPEVE.showMarketDetails(http://); return false&quot;&gt;ht&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 03:19:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 03:19:31 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_market_link&quot; onclick=&quot;CCPEVE.showMarketDetails(http://); return false&quot;&gt;ht&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 03:30:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 03:30:52 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news/newsFromEve.asp?newsTitle=alliance-tournament-x-finals-day'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 03:33:19 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 03:33:19 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news/newsFromEve.asp?newsTitle=paypal-payments-for-character-transfers-temporarily-disabled'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 03:43:35 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 03:43:35 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news.asp?a=single&amp;amp;nid=4920&amp;amp;tid=4'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 03:54:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 03:54:37 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_market_link&quot; onclick=&quot;CCPEVE.showMarketDetails(http://); return false&quot;&gt;ht&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 04:18:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 04:18:12 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_market_link&quot; onclick=&quot;CCPEVE.showMarketDetails(http://); return false&quot;&gt;ht&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 04:22:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 04:22:23 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_market_link&quot; onclick=&quot;CCPEVE.showMarketDetails(http://); return false&quot;&gt;ht&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 04:35:58 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 04:35:58 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_market_link&quot; onclick=&quot;CCPEVE.showMarketDetails(http://); return false&quot;&gt;ht&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 04:40:15 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 04:40:15 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_market_link&quot; onclick=&quot;CCPEVE.showMarketDetails(http://); return false&quot;&gt;ht&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 05:17:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 05:17:05 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news/newsFromEve.asp?newsTitle=csm-7-summit-meeting-minutes-published'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 12:25:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 12:25:29 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_fitting_link&quot; onclick=&quot;CCPEVE.showFitting('https://support.eveonline.com/Pages/Login.aspx?ReturnUrl=%2fapi%2f'); return false&quot;&gt;HERE&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 12:25:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 12:25:57 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_fitting_link&quot; onclick=&quot;CCPEVE.showFitting('https://support.eveonline.com/Pages/Login.aspx?ReturnUrl=%2fapi%2f'); return false&quot;&gt;HERE&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 12:26:01 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 12:26:01 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_fitting_link&quot; onclick=&quot;CCPEVE.showFitting('https://support.eveonline.com/Pages/Login.aspx?ReturnUrl=%2fapi%2f'); return false&quot;&gt;HERE&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 12:26:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 12:26:13 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_fitting_link&quot; onclick=&quot;CCPEVE.showFitting('https://support.eveonline.com/Pages/Login.aspx?ReturnUrl=%2fapi%2f'); return false&quot;&gt;HERE&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 12:26:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 12:26:21 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_fitting_link&quot; onclick=&quot;CCPEVE.showFitting('https://support.eveonline.com/Pages/Login.aspx?ReturnUrl=%2fapi%2f'); return false&quot;&gt;HERE&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[04-Aug-2012 12:26:38 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[04-Aug-2012 12:26:38 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_fitting_link&quot; onclick=&quot;CCPEVE.showFitting('https://support.eveonline.com/Pages/Login.aspx?ReturnUrl=%2fapi%2f'); return false&quot;&gt;HERE&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[05-Aug-2012 09:16:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[05-Aug-2012 09:16:05 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news/newsFromEve.asp?newsTitle=csm-7-summit-meeting-minutes-published'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
+[05-Aug-2012 09:17:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/egacouk/public_html/include/parser.php(822) : regexp code on line 1
+[05-Aug-2012 09:17:33 UTC] PHP Fatal error:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Failed evaluating code: 
+&lt;a href=&quot;#&quot; class=&quot;eve_chat_link&quot; onclick=&quot;CCPEVE.joinChannel('http://community.eveonline.com/news/newsFromEve.asp?newsTitle=csm-7-summit-meeting-minutes-published'); return false&quot;&gt;&lt;/a&gt; in /home/egacouk/public_html/include/parser.php on line 822
